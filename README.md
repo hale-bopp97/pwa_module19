@@ -31,5 +31,5 @@ hale-bopp97 https://github.com/hale-bopp97/pwa_module19
 ## License
 This project is licensed under the MIT license.
 
-![screenshot](https://github.com/hale-bopp97/pwa_module19/blob/main/Develop/assets/Capture.JPG?raw=true)
+![screenshot](https://github.com/hale-bopp97/pwa_module19/blob/main/assets/Capture.JPG?raw=true)
     
