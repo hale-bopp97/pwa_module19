@@ -20,6 +20,8 @@ nodemon 2.0.4
 ### Executing the program
 npm run start:dev
 
+Aplication is hosted on Heroku at: https://pwa-text-editor-mod19.herokuapp.com/
+
 ## Contributors
 hale-bopp97 https://github.com/hale-bopp97/pwa_module19
 
