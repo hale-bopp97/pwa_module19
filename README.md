@@ -12,7 +12,10 @@ Progressive web text editor application
 *[License](#license)  
 
 ### Dependencies
-
+express 4.17.1    
+if-env 1.0.4  
+concurrently 5.2.0  
+nodemon 2.0.4  
 
 ### Executing the program
 npm run start:dev
